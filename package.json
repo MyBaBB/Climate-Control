@@ -4,7 +4,6 @@
   "homepage": "https://mybabb.github.io/Climate-Control/",
   "private": true,
   "scripts": {
-    
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
