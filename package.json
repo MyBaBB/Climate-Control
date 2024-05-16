@@ -1,7 +1,7 @@
 {
   "name": "climate-control",
   "version": "0.0.0",
-  "homepage": "https://mybabb.github.io/Climate-Control/",
+
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
