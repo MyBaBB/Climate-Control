@@ -6,7 +6,7 @@ const darkCodeTheme = themes.dracula;
 const config = {
   title: 'Component Playground',
   tagline: 'by Brett Baker',
-  favicon: 'img/GorillaIcon2.png',
+  
  
 
   // Set the production url of your site here
@@ -224,5 +224,4 @@ const config = {
           maxHeadingLevel: 2,
         },
       }),
-  }
-);
+  };
